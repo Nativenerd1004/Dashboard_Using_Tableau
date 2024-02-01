@@ -1,4 +1,4 @@
-# Sterling E-commerce Sales Performance Dashboard Using Tableau
+# Sterling E-commerce Sales Performance Dashboard Using Tableau Public
 
 
 
