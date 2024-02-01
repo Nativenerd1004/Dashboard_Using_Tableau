@@ -27,7 +27,10 @@
 The Sterling Sales Performance Dashboard provides detailed insights into the sales performance of the e-commerce platform, including total revenue, customer distribution, and product category performance. The project aims to analyze and understand the key factors driving sales and revenue. Key stakeholders include the sales and marketing teams, as well as the executive leadership.
 
 
-![10Alytics Sales Performance Dashboard](https://github.com/Nativenerd1004/10Alytics-Sales-Performance-Dashboard-Using-Excel/assets/149740069/1e3278b1-b0f8-4ae9-85e2-0b493638d07d)
+<img width="250" alt="Screenshot 2024-02-01 at 16 15 06" src="https://github.com/Nativenerd1004/Dashboard_Using_Tableau/assets/149740069/c5fe3c15-467e-4b18-bce7-811622ab2a82"> 
+<img width="250" alt="Screenshot 2024-02-01 at 16 15 21" src="https://github.com/Nativenerd1004/Dashboard_Using_Tableau/assets/149740069/627c5f90-1a5d-4f62-a684-1f80ac95e6eb">
+<img width="250" alt="Screenshot 2024-02-01 at 16 15 34" src="https://github.com/Nativenerd1004/Dashboard_Using_Tableau/assets/149740069/d7748f60-eb5d-4059-85c5-f410e7fcb835">
+<img width="250" alt="Screenshot 2024-02-01 at 16 15 45" src="https://github.com/Nativenerd1004/Dashboard_Using_Tableau/assets/149740069/2c45f97a-bd5a-434f-8767-2889cd61b930">
 
 
 
