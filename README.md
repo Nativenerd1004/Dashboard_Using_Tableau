@@ -2,12 +2,6 @@
 
 
 
-
-
-
-
-
-
 ![wired-lineal-153-bar-chart](https://github.com/Nativenerd1004/Ecommerce-Sales-Analysis-Dashbaord/assets/149740069/e3c4b09a-97f0-48ee-aae4-9f8bafd9f848)
 
 
@@ -55,7 +49,7 @@ Examine the evolution of revenue generated over time through visualizations.
 Highlight the top 10 states revenue generation.
 
 ## Data Sources
-The data for this project was provided by the 10Alytics company. 
+The data for this project was provided by the Sterling company. 
 
 ## Data Preprocessing
 The data cleaning process involved addressing inconsistencies, missing values, and outliers. Data gathering was a collaborative effort with the company representatives to ensure completeness and accuracy.
@@ -82,13 +76,13 @@ Consider expanding business operations in countries identified as top performers
 For better understanding to a layman, I used the STAR approach of analyzing projects from start to finish. 
 
 ## Project Overview
-- **Situation:** 10Alytics sought insights into their business performance and efficiency through a comprehensive 10Alytics dashboard.
+- **Situation:** Sterling sought insights into their business performance and efficiency through a comprehensive Tableau dashboard.
 - **Task:** Develop a data-driven dashboard focusing on key metrics, including customer distribution, revenue generation, product performance, and trends over time.
 - **Action:** Leveraging data provided by the company, data was gathered incrementally from representatives and cleaned extensively before dashboard development.
-- **Result:** The 10Alytics performance dashboard aims to enhance operational efficiency and support informed decision-making.
+- **Result:** The dashboard aims to provide comprehensive insights into the sales performance of the e-commerce platform. It seeks to analyze and understand the distribution of customers across different genders, determine the total amount of revenue generated in the last years, and identify the profits made by product categories. Additionally, the dashboard aims to explore the overall distribution of orders and revenue across different product categories, investigate the most commonly used payment methods by customers and the payment method generating the highest revenue, examine the evolution of revenue generated over time through visualizations, and highlight the top 10 states revenue generation. These objectives collectively aim to facilitate informed decision-making and strategic planning based on a thorough understanding of the e-commerce platform's sales performance.
 
 ## Project Objectives
-- **Situation:** The ECommerce desired specific insights, including their customer distribution, revenue overview, product performance, payment method analysis, revenue trends, and geographical analysis.
+- **Situation:** The E-commerce business desired specific insights, including their customer distribution, revenue overview, product performance, payment method analysis, revenue trends, and geographical analysis.
 - **Task:** I defined and achieved the objectives through gender distribution analysis, revenue calculation accuracy, and identification of top-performing products. etc
 - **Action:** I collaboratively gathered accurate data bit by bit, cleaned the data thoroughly, and developed actionable insights.
 - **Result:** The objectives guided the project to deliver precise gender distribution, revenue insights, and product recommendations.
@@ -118,7 +112,7 @@ For better understanding to a layman, I used the STAR approach of analyzing proj
 - **Result:** The generated actionable insights informed strategic decisions for the business success.
 
 # Conclusion
-The 10Alytics performance dashboard provides valuable insights, but further data exploration and analysis are recommended for a more comprehensive understanding. 
+The Sterling performance dashboard provides valuable insights, but further data exploration and analysis are recommended for a more comprehensive understanding. 
 
 
 
