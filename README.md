@@ -33,19 +33,19 @@ The Sterling Sales Performance Dashboard provides detailed insights into the sal
 ![wired-lineal-134-target](https://github.com/Nativenerd1004/Ecommerce-Sales-Analysis-Dashbaord/assets/149740069/7350aa40-98b6-487b-ac73-9365438da23f)
 
 
-#### Customer Distribution Analysis:
+### Customer Distribution Analysis:
 Utilize gender data to analyze and understand the distribution of customers across different genders.
-#### Revenue Overview:
+### Revenue Overview:
 Determine the total amount of revenue generated in the last years.
-#### Product Performance:
+### Product Performance:
 Identify the profits made by product categories.
-#### Category Insights:
+### Category Insights:
 Explore the overall distribution of orders and revenue across different product categories.
-#### Payment Method Analysis:
+### Payment Method Analysis:
 Investigate the most commonly used payment methods by customers and the payment method generating the highest revenue.
-#### Revenue Trends Over Time:
+### Revenue Trends Over Time:
 Examine the evolution of revenue generated over time through visualizations.
-#### Geographical Analysis:
+### Geographical Analysis:
 Highlight the top 10 states revenue generation.
 
 ## Data Sources
